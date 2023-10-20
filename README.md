@@ -6,7 +6,7 @@ Welcome to my Coursera repository, where I showcase my certificates, notes, quiz
 
 ### Deep Learning Specializations
 
-![Deep Learning Specializations Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/TNVAQWY9TTTA)
+![Deep Learning Specializations Certificate](Coursera TNVAQWY9TTTA.pdf)
 
 ### Course 1: [Course Name 1]
 
