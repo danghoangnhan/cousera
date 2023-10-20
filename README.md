@@ -4,6 +4,8 @@ Welcome to my Coursera repository, where I showcase my certificates, notes, quiz
 
 ## Courses
 
+### Deep Learning Specializations
+
 ### Course 1: [Course Name 1]
 
 ![Certificate Course 1](certificate1.jpg)
