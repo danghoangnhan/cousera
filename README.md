@@ -5,6 +5,7 @@ Welcome to my Coursera repository, where I showcase my certificates, notes, quiz
 ## Courses
 
 ### Deep Learning Specializations
+![Deep Learning Specializations Certificate](https://coursera.org/share/b50fa9edb6e33949f6f455c7bead9bb8)
 
 ### Course 1: [Course Name 1]
 
